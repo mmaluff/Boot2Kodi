@@ -2,7 +2,6 @@
 
 # kodi repo add
 apt install software-properties-common -y
-add-apt-repository ppa:team-xbmc/ppa -y
 
 # update and upgrade
 apt update -y && apt upgrade -y
